@@ -16,4 +16,4 @@ In 2020 I had used BERT and various flavors like RoBERTa for semantic search but
 
 Now that I'm not burnt out and working in a job that I enjoy I've been taking the time to get back into working on ML related projects and as part of that I'm doing a couple different refresher courses.
 
-As of this work I've just finished Lesson 5 of "Practical Deep Learning for Coders" by FastAI and wanted to implement a full NN from scratch, from memory, to test my fundamentals. Below is the result of that. 
+As of this work I've just finished Lesson 5 of "Practical Deep Learning for Coders" by FastAI and wanted to implement a full NN from scratch, from memory, to test my fundamentals. This is the result of that. 
